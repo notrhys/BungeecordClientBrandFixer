@@ -1,0 +1,4 @@
+name: BungeecordClientBrandFix
+main: me.rhys.plugin.Plugin
+version: 0.1
+author: Rhys
