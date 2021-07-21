@@ -2,8 +2,9 @@
 Fixes a bug within Bungeecord where the MC|Brand payload doesn't get send to the other server 
 
 # How to use
-Install the Bungeecord-Fixer.jar on your Bungeecord server
-Install the Spigot-Fixer.jar on all your Spigot servers
+1) Install the Bungeecord-Fixer.jar on your Bungeecord server
+
+2) Install the Spigot-Fixer.jar on all your Spigot servers
 
 (You will need to setup a redis server & configure them in the config.yml on all of the servers and bungeecord)
 
