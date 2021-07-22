@@ -1,4 +1,4 @@
-# BungeeCord Client Brand Fixewr
+# BungeeCord Client Brand Fixer
 Fixes a bug within Bungeecord where the MC|Brand payload doesn't get send to the other server 
 
 # How to use
